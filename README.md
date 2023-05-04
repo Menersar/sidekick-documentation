@@ -42,3 +42,8 @@ Die die in `4.` erstellte Datei kann dann über die Anwendung geladen werden.
 
 Die Blöcke der Erweiterung sollten nun in der entsprechend spezifizierten Kategorie auftauchen und (entsprechend der implementierten Funktionen) bedienbar sein.
 (Als Beispiel habe ich im Repo `4.` eine Umsetzung von 2 Blöcken mit unterschiedlichen `Hello World`-Rückgaben hochgeladen).
+
+<br/>
+
+#### Beispiel-Blöcke in der Anwendung:
+![Screenshot 2023-05-04 104224](https://user-images.githubusercontent.com/48289383/236154466-3c3976ed-84ca-45db-ab3d-6e80b468c616.png)
