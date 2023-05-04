@@ -9,15 +9,15 @@ Aktueller Stand, zunächst aufgeteilt auf die folgenden 4 Repos:
 - Um das selber zu testen, müsste man erstmal alle 4 in einen Ordner clonen oder downloaden.
 - Dann braucht man auf jeden Fall Node v16 und Yarn 
 (diese Vorbereitung hatte ich in https://github.com/Menersar/scratch-extensions-2#1-entwicklungsumgebung-vorbereiten- zum Großteil zusammengefasst).
-- Im `1.` Repo sollte man dann `yarn install` ausführen, danach ist die GUI über `yarn start` ausführbar (wenn es fertig geladen hat, unter http://localhost:8601/ einsehbar).
+- Im `1.` Repo sollte man dann `yarn install` ausführen, danach ist die GUI über `yarn start` ausführbar (sobald es fertig geladen hat, einsehbar unter http://localhost:8601/).
 
 <br/>
 
-`2.` ist das Repo der aktuellen Offline-Version der GUI. Um sie zu starten müssten eigentlich lediglich die gleichen Befehle wie für 1. ausgeführt werden.
+`2.` ist das Repo der aktuellen Offline-Version der GUI. Um sie zu starten, müssten lediglich die gleichen Befehle wie für `1.` ausgeführt werden.
 
 <br/>
 
-`3.` beinhaltet nur die benötigten Module.
+`3.` beinhaltet aktuell die benötigten Module der Anwendung.
 
 <br/>
 
